@@ -50,4 +50,12 @@ Ensure all inputs are valid and follow the specified formats.
 The script handles basic CRUD operation for managing the database.
 Error handling is included for the database operations and user inputs
 
+Reference 
+1.https://www.geeksforgeeks.org/
+2.https://www.javatpoint.com/
+3.https://www.w3schools.com/sql/sql_quickref.asp
+4.https://dev.mysql.com/doc/
+5.https://www.w3schools.com/python/python_reference.asp
+6.https://docs.python.org/3/
+
 
