@@ -37,6 +37,7 @@ Installations:
 1. Install Python and SQLite in your system 
 2. Download the SQLite extension by "alexcvzz" or SQLite Viewer (to view the database)
 3. clone the repository or download and run the script ('Ice_Parlor_app.py')
+4. Install PrettyTable package to view the database (pip install prettytable) 
 
 Usage:
 
